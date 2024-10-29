@@ -1,6 +1,7 @@
 # Hey There, I'm Raghav
 Developer by logic & Designer by heart. I blend code and creativity to craft intuitive solutions and user-centric designs. Welcome to my little corner on GitHub!
 
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/madebysharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-s/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rs0125) 
 
@@ -14,7 +15,12 @@ Developer by logic & Designer by heart. I blend code and creativity to craft int
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rs0125&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-C,-?)
 
----
-[![](https://visitcount.itsvg.in/api?id=rs0125&icon=2&color=5)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Thanks for Visiting my GitHub Profile!
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=rs0125&label=Profile%20Views&color=10&icon=2&pretty=false)](https://visitcount.itsvg.in)
