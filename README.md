@@ -10,7 +10,7 @@ Developer by logic & Designer by heart. I blend code and creativity to craft int
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rs0125&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rs0125&theme=radical&hide_border=false)<br/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rs0125&show_icons=true&layout=compact&hide=SHADERLAB,ASP.NET,mathematica,HLSL&theme=radical&exclude_repo=Dodge_it_Instructional,SnapSpawn,Flappy" alt="Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rs0125&show_icons=true&layout=compact&hide=SHADERLAB,ASP.NET,mathematica,HLSL&theme=radical&exclude_repo=Dodge_it_Instructional,SnapSpawn,Flappy,AR-Hand-Tracker,ARLab" alt="Most Used Languages">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rs0125&theme=radical&no-frame=false&no-bg=false&margin-w=4&rank=-C,-?)
